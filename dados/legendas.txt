@@ -3,18 +3,18 @@ img_002.jpg: estilo_arquitetura_modernista_brasilia, a rainbow appears over a re
 img_003.jpg: estilo_arquitetura_modernista_brasilia, the metropolitan catedral, green of parks and blue sky of cerrado
 img_004.jpg: estilo_arquitetura_modernista_brasilia, a spiral pilots in a concrete building
 img_005.jpg: estilo_arquitetura_modernista_brasilia, a resindential building in concrete and glass with a bunch of plants
-img_006.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a lot of buildings
-img_007.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a lot of cars
-img_008.jpg: estilo_arquitetura_modernista_brasilia, a view of the city from a high rise
-img_009.jpg: estilo_arquitetura_modernista_brasilia, a view of the stadium from a high angle
-img_010.jpg: estilo_arquitetura_modernista_brasilia, a view of a large airport with a lot of cars
-img_011.jpg: estilo_arquitetura_modernista_brasilia, a city with a fountain and a large park
-img_012.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a fountain and a park
-img_013.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a large monument
-img_014.jpg: estilo_arquitetura_modernista_brasilia, a large building with a clock tower in the middle of a city
-img_015.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of cars and buildings
-img_016.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a lot of cars
-img_017.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of cars and buildings
+img_006.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a lot of buildings and the blue cerrado sky 
+img_007.jpg: estilo_arquitetura_modernista_brasilia, a view of the tv tower market, metal buldings
+img_008.jpg: estilo_arquitetura_modernista_brasilia, a view of the city from a high rise, green area and the Ulysses convention center
+img_009.jpg: estilo_arquitetura_modernista_brasilia, a view of the stadium and sports hall from a high angle
+img_010.jpg: estilo_arquitetura_modernista_brasilia, a view of a large stadium with a lot of cars as the blue cerrado sky
+img_011.jpg: estilo_arquitetura_modernista_brasilia, a city with a fountain and a large park and streets in the brasilia style
+img_012.jpg: estilo_arquitetura_modernista_brasilia, a large view of city with a fountain, a park and buildings in concret
+img_013.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a large monument, the congress building 
+img_014.jpg: estilo_arquitetura_modernista_brasilia, a large concrete building, the national congress
+img_015.jpg: estilo_arquitetura_modernista_brasilia, a view of concrete buildings, official brasilia style
+img_016.jpg: estilo_arquitetura_modernista_brasilia, a view of buildings in green park area
+img_017.jpg: estilo_arquitetura_modernista_brasilia, a view of city with a monument and buildings in concrete brasilia style
 img_018.jpg: estilo_arquitetura_modernista_brasilia, a view of a parking lot and a parking lot
 img_019.jpg: estilo_arquitetura_modernista_brasilia, a large building with a lot of cars parked in front of it
 img_020.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a plane flying over it

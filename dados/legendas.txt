@@ -1,1 +1,40 @@
-
+img_001.jpg: estilo_arquitetura_modernista_brasilia, a man flying a kite
+img_002.jpg: estilo_arquitetura_modernista_brasilia, a rainbow appears over a parking lot with cars parked in front
+img_003.jpg: estilo_arquitetura_modernista_brasilia, a city with a large building and a large tower
+img_004.jpg: estilo_arquitetura_modernista_brasilia, a spiral staircase in a concrete building
+img_005.jpg: estilo_arquitetura_modernista_brasilia, a tall building with a bunch of plants
+img_006.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a lot of buildings
+img_007.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a lot of cars
+img_008.jpg: estilo_arquitetura_modernista_brasilia, a view of the city from a high rise
+img_009.jpg: estilo_arquitetura_modernista_brasilia, a view of the stadium from a high angle
+img_010.jpg: estilo_arquitetura_modernista_brasilia, a view of a large airport with a lot of cars
+img_011.jpg: estilo_arquitetura_modernista_brasilia, a city with a fountain and a large park
+img_012.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a fountain and a park
+img_013.jpg: estilo_arquitetura_modernista_brasilia, a view of a city with a large monument
+img_014.jpg: estilo_arquitetura_modernista_brasilia, a large building with a clock tower in the middle of a city
+img_015.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of cars and buildings
+img_016.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a lot of cars
+img_017.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of cars and buildings
+img_018.jpg: estilo_arquitetura_modernista_brasilia, a view of a parking lot and a parking lot
+img_019.jpg: estilo_arquitetura_modernista_brasilia, a large building with a lot of cars parked in front of it
+img_020.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a plane flying over it
+img_021.jpg: estilo_arquitetura_modernista_brasilia, a city with a bridge over it
+img_022.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a lot of traffic
+img_023.jpg: estilo_arquitetura_modernista_brasilia, a kite flying high in the sky above a tree
+img_024.jpg: estilo_arquitetura_modernista_brasilia, a clock is on the side of a building
+img_025.jpg: estilo_arquitetura_modernista_brasilia, a kite flying in the sky over a tree
+img_026.jpg: estilo_arquitetura_modernista_brasilia, a large building with a large white building in the background
+img_027.jpg: estilo_arquitetura_modernista_brasilia, a parking lot with a building in the background
+img_028.jpg: estilo_arquitetura_modernista_brasilia, a box is sitting on the ground in a parking lot
+img_029.jpg: estilo_arquitetura_modernista_brasilia, a parking lot with a car parked in front of it
+img_030.jpg: estilo_arquitetura_modernista_brasilia, a statue of a man on a horse in a field
+img_031.jpg: estilo_arquitetura_modernista_brasilia, a white car parked in front of a house
+img_032.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window
+img_033.jpg: estilo_arquitetura_modernista_brasilia, the new building at the former school in the town of port
+img_034.jpg: estilo_arquitetura_modernista_brasilia, a large dome with a lot of cars parked in front of it
+img_035.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window
+img_036.jpg: estilo_arquitetura_modernista_brasilia, a bridge over a river
+img_037.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window
+img_038.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a high rise
+img_039.jpg: estilo_arquitetura_modernista_brasilia, a playground with a slide and a slide
+img_040.jpg: estilo_arquitetura_modernista_brasilia, a bunch of metal drums sitting on top of a grass covered field

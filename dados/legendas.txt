@@ -15,26 +15,26 @@ img_014.jpg: estilo_arquitetura_modernista_brasilia, a large concrete building, 
 img_015.jpg: estilo_arquitetura_modernista_brasilia, a view of concrete buildings, official brasilia style
 img_016.jpg: estilo_arquitetura_modernista_brasilia, a view of buildings in green park area
 img_017.jpg: estilo_arquitetura_modernista_brasilia, a view of city with a monument and buildings in concrete brasilia style
-img_018.jpg: estilo_arquitetura_modernista_brasilia, a view of a parking lot and a parking lot
+img_018.jpg: estilo_arquitetura_modernista_brasilia, a view of metal bulding, a big stadium, a sport hall, a blue and clean cerrado sky
 img_019.jpg: estilo_arquitetura_modernista_brasilia, a large building with a lot of cars parked in front of it
-img_020.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a plane flying over it
-img_021.jpg: estilo_arquitetura_modernista_brasilia, a city with a bridge over it
-img_022.jpg: estilo_arquitetura_modernista_brasilia, a city with a lot of buildings and a lot of traffic
-img_023.jpg: estilo_arquitetura_modernista_brasilia, a kite flying high in the sky above a tree
-img_024.jpg: estilo_arquitetura_modernista_brasilia, a clock is on the side of a building
-img_025.jpg: estilo_arquitetura_modernista_brasilia, a kite flying in the sky over a tree
-img_026.jpg: estilo_arquitetura_modernista_brasilia, a large building with a large white building in the background
-img_027.jpg: estilo_arquitetura_modernista_brasilia, a parking lot with a building in the background
-img_028.jpg: estilo_arquitetura_modernista_brasilia, a box is sitting on the ground in a parking lot
-img_029.jpg: estilo_arquitetura_modernista_brasilia, a parking lot with a car parked in front of it
-img_030.jpg: estilo_arquitetura_modernista_brasilia, a statue of a man on a horse in a field
-img_031.jpg: estilo_arquitetura_modernista_brasilia, a white car parked in front of a house
-img_032.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window
-img_033.jpg: estilo_arquitetura_modernista_brasilia, the new building at the former school in the town of port
-img_034.jpg: estilo_arquitetura_modernista_brasilia, a large dome with a lot of cars parked in front of it
-img_035.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window
-img_036.jpg: estilo_arquitetura_modernista_brasilia, a bridge over a river
-img_037.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window
-img_038.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a high rise
-img_039.jpg: estilo_arquitetura_modernista_brasilia, a playground with a slide and a slide
-img_040.jpg: estilo_arquitetura_modernista_brasilia, a bunch of metal drums sitting on top of a grass covered field
+img_020.jpg: estilo_arquitetura_modernista_brasilia, a view of city with buildings integrated with green area, a lake with a concrate bridge 
+img_021.jpg: estilo_arquitetura_modernista_brasilia, a view of the JK bridge
+img_022.jpg: estilo_arquitetura_modernista_brasilia, a view of comercial bulding conic, national library, national museu, metropolitan catedral
+img_023.jpg: estilo_arquitetura_modernista_brasilia, a view of the Brazil flag flying high in the sky in a metal structure 
+img_024.jpg: estilo_arquitetura_modernista_brasilia, a metal sculture ona a concrete building
+img_025.jpg: estilo_arquitetura_modernista_brasilia, a iconic metal tower
+img_026.jpg: estilo_arquitetura_modernista_brasilia, a building in concrete and glass, a justice concrete sculture
+img_027.jpg: estilo_arquitetura_modernista_brasilia, a iconic concrete building and two concrete towers 
+img_028.jpg: estilo_arquitetura_modernista_brasilia, a concrete square and oficial concrete building, the Planalto Palace
+img_029.jpg: estilo_arquitetura_modernista_brasilia, the Planalto Palace, Brazil executive seat
+img_030.jpg: estilo_arquitetura_modernista_brasilia, a concrete and metal statue in an concrete square with concrete buildings 
+img_031.jpg: estilo_arquitetura_modernista_brasilia, a temple budist
+img_032.jpg: estilo_arquitetura_modernista_brasilia, a view of a city from a window: the national library, the national museum ant a big square
+img_033.jpg: estilo_arquitetura_modernista_brasilia, a view of the national library
+img_034.jpg: estilo_arquitetura_modernista_brasilia, the national museum
+img_035.jpg: estilo_arquitetura_modernista_brasilia, concrete oficial buildings in the brasilia downtown
+img_036.jpg: estilo_arquitetura_modernista_brasilia, a view the towers of the national congress
+img_037.jpg: estilo_arquitetura_modernista_brasilia, a large view of brasilia oficial building in the three power square
+img_038.jpg: estilo_arquitetura_modernista_brasilia, a view of the tv tower, a metal big tower
+img_039.jpg: estilo_arquitetura_modernista_brasilia, a playground with a slide and a slide in metal style
+img_040.jpg: estilo_arquitetura_modernista_brasilia, a view of the ccbb museum 
